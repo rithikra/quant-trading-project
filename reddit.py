@@ -3,7 +3,7 @@ import praw
 import pandas as pd
 
 def retrieve_info():
-	username = 'Letane'
+	username = 'tbd'
 	# reddit = praw.Reddit(
 	# 	client_id="to be replaced",
 	# 	client_secret="to be replaced",
